@@ -4948,11 +4948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\11CNPM2\\QLDAPM\\PKND\\ClinicApi\\ClinicApi.csproj",
+      "projectUniqueName": "D:\\11CNPM2\\QLDAPM\\PKND_1\\clinicapp\\ClinicApi\\ClinicApi.csproj",
       "projectName": "ClinicApi",
-      "projectPath": "D:\\11CNPM2\\QLDAPM\\PKND\\ClinicApi\\ClinicApi.csproj",
+      "projectPath": "D:\\11CNPM2\\QLDAPM\\PKND_1\\clinicapp\\ClinicApi\\ClinicApi.csproj",
       "packagesPath": "C:\\Users\\ngoth\\.nuget\\packages\\",
-      "outputPath": "D:\\11CNPM2\\QLDAPM\\PKND\\ClinicApi\\obj\\",
+      "outputPath": "D:\\11CNPM2\\QLDAPM\\PKND_1\\clinicapp\\ClinicApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

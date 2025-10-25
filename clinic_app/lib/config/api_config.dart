@@ -4,7 +4,7 @@ class ApiConfig {
       true; // true = điện thoại thật, false = emulator
 
   // ✅ Sửa IP PC của bạn ở đây (ipconfig => IPv4)
-  static const String _lanIp = 'http://192.168.1.13:5238/api'; // PC của bạn
+  static const String _lanIp = 'http://192.168.1.15:5238/api'; // PC của bạn
   static const String _emulatorIp =
       'http://10.0.2.2:5238/api'; // Android emulator
 
